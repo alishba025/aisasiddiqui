@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Aisha Masood siddiqui</h1>
 <h3 align="center">A passionate frontend developer and python developer from pakistan</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=alishba025&label=Profile%20views&color=0e75b6&style=flat" alt="alishba025" /> </p>
+<img src = https://cdn.dribbble.com/userupload/8046474/file/original-1de7a34e8dfb6d1b9723e77458786c81.gif width="400">
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
@@ -16,7 +15,6 @@
 - ⚡ Fun fact **im very friendly**
 
 <h3 align="left">Connect with me:</h3>
-<img align = "right" alt ="coding" width="400"src= "http://user-cdn.dribbble.com/userupload/8046474/file/original-1de7a34e8dfb6d1b9723e77458786c81.gif">
 <p align="left">
 <a href="https://linkedin.com/in/aisha masood siddiqui" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aisha masood siddiqui" height="30" width="40" /></a>
 <a href="https://fb.com/aisha siddiqui" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="aisha siddiqui" height="30" width="40" /></a>
@@ -27,6 +25,12 @@
 
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/aishasidz336@gmail.com"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="aishasidz336@gmail.com" /></a></p><br><br>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=alishba025&show_icons=true&locale=en&layout=compact" alt="alishba025" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=alishba025&show_icons=true&locale=en" alt="alishba025" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=alishba025&" alt="alishba025" /></p>alt="aishasidz336@gmail.com" /></a></p><br><br>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=alishba025&show_icons=true&locale=en&layout=compact" alt="alishba025" /></p>
 
