@@ -1,10 +1,10 @@
 <img src = "https://github.com/alishba025/aisasiddiqui/blob/main/aishabanner.png">
 <h1 align="center">Hi 👋, I'm Aisha Masood siddiqui</h1>
-<H3 align = "center"> I'm Aisha Siddiqui, a 3rd-year Software Engineering student with a strong passion for building innovative solutions through Python web development and C++ programming. I enjoy turning ideas into real-world applications, with a special interest in artificial intelligence and its practical use in solving everyday problems.
+<H4 align = "center" color = "dark-blue"> I'm Aisha Siddiqui, a 3rd-year Software Engineering student with a strong passion for building innovative solutions through Python web development and C++ programming. I enjoy turning ideas into real-world applications, with a special interest in artificial intelligence and its practical use in solving everyday problems.
 
 My projects range from responsive web applications using Python frameworks like Django and Flask to performance-driven systems developed in C++. I thrive in learning new technologies and continuously aim to improve my skills in backend development, system design, and AI integration.
 
-Currently exploring advanced concepts in machine learning and automation, I'm open to internships, collaborations, and opportunities that challenge my problem-solving abilities and push me to grow as a developer. </h3>
+Currently exploring advanced concepts in machine learning and automation, I'm open to internships, collaborations, and opportunities that challenge my problem-solving abilities and push me to grow as a developer. </h4>
 
 <img src = https://cdn.dribbble.com/userupload/8046474/file/original-1de7a34e8dfb6d1b9723e77458786c81.gif width="400">
 
