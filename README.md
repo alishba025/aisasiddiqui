@@ -1,4 +1,5 @@
 <img src = "https://github.com/alishba025/aisasiddiqui/blob/main/aishabanner.png">
+<body style="background-color: lightblue;">
 <h1 align="center">Hi 👋, I'm Aisha Masood siddiqui</h1>
 <H4 align = "center" color = "dark-blue"> I'm Aisha Siddiqui, a 3rd-year Software Engineering student with a strong passion for building innovative solutions through Python web development and C++ programming. I enjoy turning ideas into real-world applications, with a special interest in artificial intelligence and its practical use in solving everyday problems.
 
