@@ -1,4 +1,4 @@
-![logo] (https://github.com/alishba025/aisasiddiqui/blob/main/aishabanner.png)
+
 <h1 align="center">Hi 👋, I'm Aisha Masood siddiqui</h1>
 <h3 align="center">A passionate frontend developer and python developer from pakistan</h3>
 <img src = https://cdn.dribbble.com/userupload/8046474/file/original-1de7a34e8dfb6d1b9723e77458786c81.gif width="400">
